@@ -1,5 +1,3 @@
-import 'package:flutter_application_4/domain/entity/role_entity.dart';
-
 import '../../domain/entity/doljnost_entity.dart';
 
 class Doljnost extends DoljnostEntity {
